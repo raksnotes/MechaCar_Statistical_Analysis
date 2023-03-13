@@ -36,17 +36,21 @@ Additionally, for lot1 and lot2, the p-values are greater than the significance 
 I would like to run a statistical study of MechaCar performance in comparison to other manufacturers' cars that pertains to the weight of the car. I believe that 
 whether the car is heavy or light, would contribute to performance in regard to accident impact.  
 
-1. Metric to test: weight
+### 1. Metric to test: 
 
-2. Null Hypothesis: The weight of the car is less than 5000 pounds 
-   Alt. Hypothesis: The weight of the car is greater than 5000 pounds 
+weight
 
-3. Statistical test: 
+### 2. Null Hypothesis: 
+The weight of the car is less than 5000 pounds 
+### Alt. Hypothesis: 
+The weight of the car is greater than 5000 pounds 
+
+### 3. Statistical test: 
 
 I would use a one-sample t-test that compares the weight of the MechaCar to the average weight of cars that consumers prefer. 
 I would also use an MLR model to test the significance of all variables (manufacturers). 
 
-4. Data: 
+### 4. Data: 
 
 Data needed to run this analysis would include the average weight of cars consumed in the past year; weights of cars purchased by customers per manufacturer. 
 
