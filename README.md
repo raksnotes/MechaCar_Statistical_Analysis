@@ -56,3 +56,4 @@ I would also use an MLR model to test the significance of all variables (manufac
 
 Data needed to run this analysis would include the average weight of cars consumed in the past year; weights of cars purchased by customers per manufacturer. 
 
+Additional References: https://sparkbyexamples.com/r-programming/group-by-summarise-in-r/
