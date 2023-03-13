@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+![image](https://user-images.githubusercontent.com/116187123/224855150-e272e41b-810a-49b3-8974-a8baa57f9a98.png)
 // in ref to Mod 16.7.3
 
 ### 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -17,7 +18,7 @@ No, as shown in the snapshot below, some p-values are significant which would me
 This Linear Model predicts the mpg effectively because the R-Squared value = 0.7149033, in which the value is closer to 1. 
 
 ## Summary Statistics on Suspension Coils
-
+![image](https://user-images.githubusercontent.com/116187123/224855195-790b85b9-f2ea-41a5-8151-ff4c3a8c6971.png)
 ### 1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 Lot1 and Lot2 meet this design specification, since the values are less than 100, however, Lot3 does not meet this specification due to the value exceeding 100, as shown below. 
