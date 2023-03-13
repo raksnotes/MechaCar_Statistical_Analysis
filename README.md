@@ -24,6 +24,12 @@ Lot1 and Lot2 meet this design specification, since the values are less than 100
 ![image](https://user-images.githubusercontent.com/116187123/224734750-e81e8e1c-df8a-4a4d-ad4f-edc12ad902c0.png)
 
 
+## T-Tests on Suspension Coils 
+In regard to the screenshots shown below for each t-test for each individual Lot, Lot3 seems to be the most significant variable. 
+Additionally, for lot1 and lot2, the p-values are greater than the significance level, therefore failing to reject the null and concluding that the true mean is equal to 1500, in contrast to lot3. 
+![image](https://user-images.githubusercontent.com/116187123/224748381-6e8ffb82-278f-45fe-8379-384fb5ec8d9f.png)
+![image](https://user-images.githubusercontent.com/116187123/224748466-33fcd9fb-1aca-4d25-941c-0148b73d5403.png)
+![image](https://user-images.githubusercontent.com/116187123/224748557-7a195644-53ab-4be9-9128-4896fd524ba5.png)
 
 
 
