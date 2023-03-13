@@ -48,7 +48,7 @@ The weight of the car is greater than 5000 pounds
 ### 3. Statistical test: 
 
 I would use a one-sample t-test that compares the weight of the MechaCar to the average weight of cars that consumers prefer. 
-I would also use an MLR model to test the significance of all variables (manufacturers). 
+I would also use an MLR model to test the significance of all variables (manufacturers' car weights). 
 
 ### 4. Data: 
 
