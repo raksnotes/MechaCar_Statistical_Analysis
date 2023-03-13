@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+// in ref to Mod 16.7.3
 
 ### 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -23,7 +24,7 @@ Lot1 and Lot2 meet this design specification, since the values are less than 100
 
 ![image](https://user-images.githubusercontent.com/116187123/224734750-e81e8e1c-df8a-4a4d-ad4f-edc12ad902c0.png)
 
-
+// in ref to Mod 16.6.2
 ## T-Tests on Suspension Coils 
 In regard to the screenshots shown below for each t-test for each individual Lot, Lot3 seems to be the most significant variable. 
 Additionally, for lot1 and lot2, the p-values are greater than the significance level, therefore failing to reject the null and concluding that the true mean is equal to 1500, in contrast to lot3. 
@@ -40,10 +41,11 @@ whether the car is heavy or light, would contribute to performance in regard to 
 
 weight
 
+// in ref to Mod 16.5.1
 ### 2. Null Hypothesis: 
-The weight of the car is less than 5000 pounds 
+H0: The weight of the car is less than 5000 pounds 
 ### Alt. Hypothesis: 
-The weight of the car is greater than 5000 pounds 
+Ha: The weight of the car is greater than 5000 pounds 
 
 ### 3. Statistical test: 
 
